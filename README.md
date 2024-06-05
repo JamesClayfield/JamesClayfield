@@ -1,11 +1,11 @@
 # Hi, I'm James! 👋
 
-I am very passionate about technology and commonly find myself to be personal IT-support for my family and friends. As an active athlete and team sports player, I love solving problems, as part of a team and individually. I love finding technical solutions to problems and am always keen to develop new knowledge and skills.
 
 ## About Me 😎
-
+I am very passionate about technology. As an active athlete and team sports player, I love solving problems, as part of a team and individually. I love finding technical solutions to problems and am always keen to develop new knowledge and skills.
 -  🌱 **Learning:** Python, SQL, Data Science and AI at University.
--  🌍 **Location:** From Switzerland, in Madrid
+-  🌍 **Location:** From Switzerland, studying in Madrid
+-  🎓 **Studying:** MSc Business Analytics and Big Data.
 
 
 #### Hobbies

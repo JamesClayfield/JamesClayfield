@@ -7,6 +7,8 @@ I am very passionate about technology. As an active athlete and team sports play
 -  🌍 **Location:** From Switzerland, studying in Madrid
 -  🎓 **Studying:** MSc Business Analytics and Big Data.
 
+Currently working as a Data Science intern at Ryanair✈.
+
 
 #### Hobbies
 - Handball🤾🏼‍♂️
@@ -19,6 +21,10 @@ I am very passionate about technology. As an active athlete and team sports play
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-00C7B7?logo=postgresql&logoColor=black&style=for-the-badge)
 ![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft&logoColor=white&style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ## Currently Working On:👷🏻‍♂️
 - Project 1:
